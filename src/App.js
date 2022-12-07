@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import React from 'react';
+import Msg from './Msg';
+import Student from './Student';
+import StateEx from './components/StateEx';
+import Mui from './components/Mui';
+import ClickCounter from './hoc/ClickCounter';
+import HoverCounter from './hoc/HoverCounter';
+import HooksEx from './Hooks/HooksEx';
+import Listex from './components/Listex';
+import Login from './Forms/Login';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div className='App'>
+    <Login/>
+      </div>
   );
 }
+
 
 export default App;
