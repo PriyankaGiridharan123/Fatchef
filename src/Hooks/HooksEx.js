@@ -20,7 +20,9 @@ function HooksEx() {
     <div>
     <h1>{count2}</h1>
     <button onClick={inc}>KISSME{count}</button>
-    <button onClick={incre}>KISSME{count1}</button>
+    <button onClick={incre}>KISSME
+    
+    {count1}</button>
     </div>
   )
 }

@@ -1,0 +1,23 @@
+.home
+{
+  color:white;
+  background-color: rgb(18, 152, 18);
+  width:150px;
+  height:36px;
+  cursor:pointer;
+  border: none;
+  border-radius: 0px;
+  margin-left: 80px;
+  margin-top: 0px;
+}
+#success{
+    height: 100%;
+    padding-top: 8%;
+    padding-left:40%
+}
+.txt1{
+  margin-left: 100px;
+}
+.img1{
+  margin-left: -90px;
+}

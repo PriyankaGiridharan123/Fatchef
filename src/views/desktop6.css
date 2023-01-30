@@ -1,0 +1,117 @@
+.desktop6-container {
+    min-height: 100vh;
+  }
+  .desktop6-desktop6 {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .desktop6-whats-app-image20221212at12081 {
+    top: 0px;
+    left: -15px;
+    width: 1467px;
+    height: 1010px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop6-text {
+    top: 89px;
+    left: 273px;
+    color: rgb(22, 21, 21);
+    width: 988px;
+    height: auto;
+    position: absolute;
+    font-size: 55px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop6-text01 {
+    color: rgba(252, 239, 239, 1);
+  }
+  .desktop6-text03 {
+    top: 240px;
+    left: 26px;
+    color: rgb(13, 13, 13);
+    width: 1390px;
+    height: auto;
+    position: absolute;
+    font-size: 53px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop6-text04 {
+    color: rgba(255, 255, 255, 1);
+  }
+  .desktop6-text28 {
+    top: 253px;
+    left: 375px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 53px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Newsreader;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop6-arrow3 {
+    top: 939px;
+    left: 1138px;
+    width: 123px;
+    height: 0px;
+    font-size: 43px;
+    position: absolute;
+  }
+  .desktop6-about1{
+    top: 20px;
+    left: 287px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 65px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Newsreader;
+    font-weight: 450;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop-chef1{
+    top: 173px;
+    left: 0px;
+    width: 1452px;
+    height: 0px;
+    position: absolute;
+  }
